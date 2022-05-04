@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ies5p9jDWAffG59zuoHfzYLApNF39GjiewesVlpPBZ/DOPpTQUuic/3ZZIN+OV7k/wpDVbb3BeLO5bcFb4Lfew==",
+  "dgSpecHash": "WG6Gvxsd7C2MCnFSTea1qS+D6oYBfuCUA5WpOO6vRM+kYOZnY56Z0AZWbKCa3SdySDT9/kCKanjArDy1q5ziPQ==",
   "success": true,
-  "projectFilePath": "D:\\Multimedia\\Documentos\\Accenture_Proem_P3\\Ejercicio\\TP_Proem\\TP_Proem\\TP_Proem.csproj",
+  "projectFilePath": "D:\\Multimedia\\Documentos\\TPacc\\TP_Proem\\TP_Proem\\TP_Proem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jonim\\.nuget\\packages\\itext7\\7.2.2\\itext7.7.2.2.nupkg.sha512",

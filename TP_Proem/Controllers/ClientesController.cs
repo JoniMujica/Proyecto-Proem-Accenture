@@ -10,6 +10,18 @@ namespace TP_Proem.Controllers
         {
             this.context = context;
         }
+        [HttpPost]
+        public IActionResult Guardar(Cliente cliente)
+        {
+            context.Add(cliente);
+            context.SaveChanges();
+            return Redirect("Index");
+        }
+        public IActionResult Crear()
+        {
+            Cliente cliente = new Cliente();
+            return View(cliente);
+        }
         public IActionResult Index()
         {
             return View(context.Clientes.ToList());

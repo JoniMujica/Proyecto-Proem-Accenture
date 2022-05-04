@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Multimedia\\Documentos\\Accenture_Proem_P3\\Ejercicio\\TP_Proem\\TP_Proem\\TP_Proem.csproj": {}
+    "D:\\Multimedia\\Documentos\\TPacc\\TP_Proem\\TP_Proem\\TP_Proem.csproj": {}
   },
   "projects": {
-    "D:\\Multimedia\\Documentos\\Accenture_Proem_P3\\Ejercicio\\TP_Proem\\TP_Proem\\TP_Proem.csproj": {
+    "D:\\Multimedia\\Documentos\\TPacc\\TP_Proem\\TP_Proem\\TP_Proem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Multimedia\\Documentos\\Accenture_Proem_P3\\Ejercicio\\TP_Proem\\TP_Proem\\TP_Proem.csproj",
+        "projectUniqueName": "D:\\Multimedia\\Documentos\\TPacc\\TP_Proem\\TP_Proem\\TP_Proem.csproj",
         "projectName": "TP_Proem",
-        "projectPath": "D:\\Multimedia\\Documentos\\Accenture_Proem_P3\\Ejercicio\\TP_Proem\\TP_Proem\\TP_Proem.csproj",
+        "projectPath": "D:\\Multimedia\\Documentos\\TPacc\\TP_Proem\\TP_Proem\\TP_Proem.csproj",
         "packagesPath": "C:\\Users\\jonim\\.nuget\\packages\\",
-        "outputPath": "D:\\Multimedia\\Documentos\\Accenture_Proem_P3\\Ejercicio\\TP_Proem\\TP_Proem\\obj\\",
+        "outputPath": "D:\\Multimedia\\Documentos\\TPacc\\TP_Proem\\TP_Proem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonim\\AppData\\Roaming\\NuGet\\NuGet.Config",

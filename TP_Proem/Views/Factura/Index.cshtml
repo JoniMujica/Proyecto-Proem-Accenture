@@ -1,0 +1,30 @@
+﻿@model List<Factura>
+
+<h1>Facturas</h1>
+
+@if(Model.Count > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Codigo</th>
+                <th>Nombre</th>
+                <th>Direccion</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Factura in Model)
+            {
+                <tr>
+                    <td>@Factura.Cliente.Nombre</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay datos para mostrar</p>
+    <a  class="btn btn-info" role="button" asp-controller="Factura" asp-area="" asp-action="Crear" asp-route-id="@ViewBag.Cliente.Id" >Crear Factura</a>
+}

@@ -1,0 +1,13 @@
+﻿@model Cliente
+
+
+<form method="post">
+    <label asp-for="@Model.Nombre"></label>
+    <input asp-for="@Model.Nombre" /> <br />
+    <label asp-for="@Model.Codigo"></label>
+    <input asp-for="@Model.Codigo" /> <br />
+    <label asp-for="@Model.Direccion"></label>
+    <input asp-for="@Model.Direccion" /> <br />
+
+    <input type="submit" value="Guardar" asp-action="Guardar"/>
+</form>
